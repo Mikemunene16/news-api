@@ -2,7 +2,7 @@ from flask import Flask
 from flask_bootstrap import Bootstrap
 
 
-bootstrap = Bootstrap()
+# bootstrap = Bootstrap()
 
 # def create_app(config_name):
 
