@@ -1,3 +1,35 @@
+/* .navbar{ background:#050505;}
+
+
+.nav-link , .navbar-brand{ 
+    color: #f4f4f4; 
+    cursor: pointer;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:larger;
+}
+
+a.navbar-brand {
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+
+}
+a.navbar-brand:hover{ color: orange;}
+
+.nav-link{ margin-right: 1em !important;}
+
+.nav-link:hover{ color: orange; }
+
+.navbar-collapse{ justify-content: flex-end;}
+
+.navbar-toggler{  background:#fff !important;}
+
+.navbar-collapse{
+    justify-content: flex-end; 
+/* } */
+
+
+/* 
+
 .sidebar-container {
     position: fixed;
     width: 220px;
@@ -82,4 +114,50 @@
   
 .content-container {
     padding-left: 220px;
+} */
+
+/* .main {
+    flex: 1 1 0;
+    display: flex;
 }
+.container-fluid {
+  display: flex;
+}
+.col-9 {
+  overflow-y: auto;
+  height: 90vh; 
+}  */
+
+/* Color of the links BEFORE scroll */
+/* .navbar-scroll .nav-link,
+.navbar-scroll .navbar-toggler-icon,
+.navbar-scroll .navbar-brand {
+  color: #262626;
+}
+
+/* Color of the navbar BEFORE scroll */
+.navbar-scroll {
+  background-color: #FFC017;
+}
+
+/* Color of the links AFTER scroll */
+.navbar-scrolled .nav-link,
+.navbar-scrolled .navbar-toggler-icon,
+.navbar-scroll .navbar-brand {
+  color: #262626;
+}
+
+/* Color of the navbar AFTER scroll */
+/* .navbar-scrolled {
+  background-color: #fff;
+} */
+
+/* An optional height of the navbar AFTER scroll */
+/* .navbar.navbar-scroll.navbar-scrolled {
+  padding-top: auto;
+  padding-bottom: auto;
+}
+.navbar-brand {
+  font-size: unset;
+  height: 3.5rem;
+} */ 

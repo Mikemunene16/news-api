@@ -10,9 +10,10 @@ def index():
     '''
     Root function returning index/home page with data
     '''
-    source= get_source()
+    
+    source = get_source()
     headlines = get_headlines()
-    return render_template('index.html',sources=source, headlines = headlines)
+    return render_template('index.html',sources=source,headlines = headlines)
 
 @main.route('/article/<id>')
 def article(id):
