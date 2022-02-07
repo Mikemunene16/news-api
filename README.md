@@ -42,9 +42,9 @@ Creating the virtual environment
   $ curl https://bootstrap.pypa.io/get-pip.py | python
 Installing Flask and other Modules
 
-  $ python3.6 -m pip install Flask
-  $ python3.6 -m pip install Flask-Bootstrap
-  $ python3.6 -m pip install Flask-Script
+  $ python3.8 -m pip install Flask
+  $ python3.8 -m pip install Flask-Bootstrap
+  $ python3.8 -m pip install Flask-Script
 Setting up the API Key
 
   To be able to gather article info from the News API you will need an API Key.
@@ -69,7 +69,7 @@ Technologies Used
 Python3.8
 Flask
 License
-Copyright (c) 2022 emdeechege
+Copyright (c) 2022 Mikemunene16
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
